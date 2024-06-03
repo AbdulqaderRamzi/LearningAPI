@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API\\GameStore\\GameStore.csproj": {}
+    "D:\\tests\\LearningAPI\\GameStore.csproj": {}
   },
   "projects": {
-    "D:\\API\\GameStore\\GameStore.csproj": {
+    "D:\\tests\\LearningAPI\\GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "D:\\tests\\LearningAPI\\GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "D:\\API\\GameStore\\GameStore.csproj",
+        "projectPath": "D:\\tests\\LearningAPI\\GameStore.csproj",
         "packagesPath": "C:\\Users\\abood\\.nuget\\packages\\",
-        "outputPath": "D:\\API\\GameStore\\obj\\",
+        "outputPath": "D:\\tests\\LearningAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abood\\AppData\\Roaming\\NuGet\\NuGet.Config",

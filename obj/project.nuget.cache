@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQSmH6yFJpDBAbBOz3S+BG2bJgAbgIA3j4qV1Nw7kBgAK5p5JIix8BZjykD9eDucw/4fm2krRwUyaHgcs9w0eg==",
+  "dgSpecHash": "AT3pq7oTNsh8tcPIVVnWVUHVX896hff0Wz8tYreYZx/hQErULCNjS8lNPu7McWs9Xy+PT5cV2+0DLSVlPJ8ERQ==",
   "success": true,
-  "projectFilePath": "D:\\API\\GameStore\\GameStore.csproj",
+  "projectFilePath": "D:\\tests\\LearningAPI\\GameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abood\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\abood\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
